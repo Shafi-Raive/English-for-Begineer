@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "633652379009",
+    "firebase_url": "https://next-decount.firebaseio.com",
+    "project_id": "next-decount",
+    "storage_bucket": "next-decount.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633652379009:android:be7394e673bb7c39be3c80",
+        "android_client_info": {
+          "package_name": "shafi.com.example.entobn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633652379009-6oq75h7o5ljtjp0qtc0oqmq479i6ipt0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "shafi.com.example.entobn",
+            "certificate_hash": "19bbe4377d29b07ca8cc1d7f4ed92f07f0fa6c01"
+          }
+        },
+        {
+          "client_id": "633652379009-pmaedgo13sbvrek1uurr2v807aepuii6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzLBmFcsu6Yf689wwE07OGgfgstNkqz54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633652379009-pmaedgo13sbvrek1uurr2v807aepuii6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "633652379009-84gtlhuci1qmibollks7eafn7onm3p13.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.company.shafi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
